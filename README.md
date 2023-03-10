@@ -92,7 +92,7 @@ python tools/run.py --tasks captioning --datasets m4c_textcaps --model m4c_capti
 For more details, please follow the [file]('projects/M4C_Captioner/README.md').
 
 ## Pretrained Model
-
+[Google Drive](https://drive.google.com/file/d/17k8KnlDkj90Zr4F-MBu1RyWq6OwVNMp8/view?usp=sharing)
 
 ## Citation
 
