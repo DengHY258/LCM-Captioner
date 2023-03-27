@@ -98,10 +98,12 @@ For more details, please follow the [file]('projects/M4C_Captioner/README.md').
 
 If our work is helpful to you, please cite:
 ```
-@article{wang4219042lcm,
-  title={LCM-Captioner: A Lightweight Text-Based Image Captioning Method with Collaborative Mechanism between Vision and Text},
+@article{wang2023lcm,
+  title={LCM-Captioner: A lightweight text-based image captioning method with collaborative mechanism between vision and text},
   author={Wang, Qi and Deng, Hongyu and Wu, Xue and Yang, Zhenguo and Liu, Yun and Wang, Yazhou and Hao, Gefei},
-  journal={Available at SSRN 4219042}
+  journal={Neural Networks},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
